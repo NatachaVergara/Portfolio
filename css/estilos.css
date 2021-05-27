@@ -64,6 +64,9 @@ section img{
     margin-left:0;
     border-radius: 0;
 }
+.herramientas img{
+    width: 200px;
+}
 
 .row{
     width: 80%;
@@ -285,6 +288,13 @@ footer a{
         margin-bottom: 30px;
     }
 
+    .herramientas img{
+        width: 40px;
+        width: 50%;
+        border-radius: 30%;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
     .col:first-child{
         border: none;
     }
