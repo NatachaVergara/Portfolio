@@ -65,7 +65,14 @@ section img{
     border-radius: 0;
 }
 .herramientas img{
-    width: 200px;
+    width: 100px;
+}
+.herramientas .row{
+    margin-left: 200px;
+}
+.herramientas .col{
+    margin-bottom: 50px;
+    
 }
 
 .row{
@@ -243,7 +250,10 @@ footer a{
     
     section h1{
         margin-top: 64px;
-        visibility: hidden;        
+                
+    }
+    .section1 h1{
+        visibility: hidden;
     }
   
     
@@ -295,6 +305,14 @@ footer a{
         border-radius: 30%;
         margin-left: 50px;
         margin-bottom: 30px;
+    }
+   
+    .herramientas .row{
+        margin-left: auto;
+    }
+    .herramientas .col{
+        margin-bottom: auto;
+        
     }
     .col:first-child{
         border: none;
