@@ -408,6 +408,13 @@ footer a{
         width:40px;
     }
 
+    .herramientas .row{
+        margin-left: auto;
+    }
+    .herramientas .col{
+        margin-bottom: auto;
+        
+    }
 
     /*Carousel-landscape*/
     .carousel-item, .carousel-item img{
