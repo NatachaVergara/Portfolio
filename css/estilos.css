@@ -243,6 +243,7 @@ footer a{
     
     section h1{
         margin-top: 64px;
+        visibility: hidden;        
     }
   
     
