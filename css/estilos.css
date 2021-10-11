@@ -129,8 +129,7 @@ section img{
     box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
-.carousel-item,.carousel-item img {
-    
+.carousel-item,.carousel-item img {    
     height: 400px;
 } 
 
